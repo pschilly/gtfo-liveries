@@ -1,4 +1,4 @@
-<img src="[drawing.jpg](https://globaltaskforceoverlord.org/storage/images/Logo.png" alt="Global Task Force Overlord" width="512"/>
+<img src="https://globaltaskforceoverlord.org/storage/images/Logo.png" alt="Global Task Force Overlord" width="512"/>
 
 # Global Task Force Overlord Official Livery Pack
 
